@@ -1,2 +1,3 @@
-hello_world = "hello world"
-puts hello_world
+def hello_world
+  puts "hello world"
+end
